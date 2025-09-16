@@ -1,0 +1,57 @@
+{
+  "category": "miscellaneous",
+  "created_date": "2025-09-15T22:48:57.434857",
+  "default_ports": [
+    0,
+    1,
+    4096,
+    6379,
+    6380,
+    26379,
+    27017,
+    27019
+  ],
+  "dependencies": [],
+  "description": "Comprehensive installation and configuration guide for popular database management systems including MySQL/MariaDB, PostgreSQL, MongoDB, and more. Complete with security hardening and performance optimization for production environments.",
+  "difficulty_level": "intermediate",
+  "documentation_url": "https://howtomgr.github.io/miscellaneous/databases",
+  "estimated_setup_time": "15-30 minutes",
+  "features": [
+    "multi-os-support",
+    "comprehensive-documentation",
+    "security-hardening",
+    "performance-optimization",
+    "backup-restore-procedures",
+    "troubleshooting-guides"
+  ],
+  "guide_path": "/miscellaneous/databases",
+  "installation_methods": [
+    "native-packages",
+    "source-compilation"
+  ],
+  "last_updated": "2025-09-15T22:48:57.434877",
+  "license": "Open Source",
+  "maintenance_status": "active",
+  "name": "databases",
+  "repository_url": "https://github.com/howtomgr/databases",
+  "spec_version": "2.0",
+  "subcategory": "miscellaneous",
+  "supported_os": [
+    "rhel",
+    "centos",
+    "rocky",
+    "almalinux",
+    "arch"
+  ],
+  "tags": [
+    "miscellaneous",
+    "observability",
+    "data-storage",
+    "security",
+    "data-protection",
+    "communication"
+  ],
+  "title": "Database Installation Guide",
+  "version": "1.0.0",
+  "website_url": "https://howtomgr.github.io/miscellaneous/databases"
+}
